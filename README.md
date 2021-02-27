@@ -1,8 +1,11 @@
 # NLW - Projeto MoveIt
 
-<h4 align="center">
-    <img width="300px" src="https://i.postimg.cc/FRMsNZh8/Screenshot-2.png">
+
+    <h1 align="center">
+      <img alt="move.it" title="move.it" src=".github/logo.png" />
+    </h1>
     <br><br>
+  <h4 align="center">
     <p align="center">
       <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -43,9 +46,14 @@ yarn dev
 - [Ambiente](https://www.notion.so/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
 
 ## 📄 Changelog
+##### v0.0.4b
+- Estrutura leveling
+- Notificação web
+- Audio web
+
 ##### v0.0.3b
 - Finalizado Contdown
-- Componente ChallengBox
+- Componente ChallengeBox
 - Contexto
 - Regras de negócio
 
