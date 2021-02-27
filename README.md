@@ -2,7 +2,7 @@
 
 <h4 align="center">
     <h1 align="center">
-      <img alt="move.it" title="move.it" src=".github/public/logo-full.svg" />
+      <img alt="move.it" title="move.it" src="/public/logo-full.svg" />
     </h1>
     <br><br>
     <p align="center">
