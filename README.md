@@ -1,11 +1,10 @@
 # NLW - Projeto MoveIt
 
-
+<h4 align="center">
     <h1 align="center">
       <img alt="move.it" title="move.it" src=".github/logo.png" />
     </h1>
     <br><br>
-  <h4 align="center">
     <p align="center">
       <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
