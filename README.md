@@ -1,5 +1,3 @@
-# NLW - Projeto MoveIt
-
 <h4 align="center">
     <h1 align="center">
       <img alt="move.it" title="move.it" src="/public/logo-full.svg" />
@@ -45,6 +43,10 @@ yarn dev
 - [Ambiente](https://www.notion.so/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
 
 ## 📄 Changelog
+##### v0.0.5b
+- Storage by cookies
+- Modal levelUp
+
 ##### v0.0.4b
 - Estrutura leveling
 - Notificação web
