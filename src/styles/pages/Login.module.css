@@ -1,0 +1,17 @@
+.container {
+    background-color:  #5965E0;
+    height: 100vh;
+    
+    margin: 0 auto;
+    padding: 2.5rem 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.container header {
+    height: 46px;
+    width: 191px;
+    left: 820px;
+    top: 371px;
+    border-radius: nullpx;
+}

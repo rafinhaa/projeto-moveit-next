@@ -41,6 +41,7 @@ yarn dev
 
 ## ℹ️ Info
 - [Ambiente](https://www.notion.so/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+- [Version 2.0](https://www.figma.com/file/QCNZO6CKnlJP7ASSNp67f8/Move.it-2.0-(Copy)?node-id=149854%3A100)
 
 ## 📄 Changelog
 ##### v0.0.5b
