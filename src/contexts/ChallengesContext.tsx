@@ -62,11 +62,14 @@ function startNewChallenges(){
     const randomChallengesIndex = Math.floor(Math.random() * challenges.length);
     const challenge = challenges[randomChallengesIndex];
     new Audio('/notification.mp3').play();
-    if (Notification.permission === 'granted' && screen.width > 1024) {
-        new Notification('Novo desafio 🎉', {
-          body: `Valendo ${challenge.amount}xp!`
-        });
-      }  
+    console.log(navigator.appVersion.indexOf("Win"));
+    if(navigator.appVersion.indexOf("Win") != -1) {
+        if(Notification.permission === 'granted' ){ 
+            new Notification('Novo desafio 🎉', {
+                body: `Valendo ${challenge.amount}xp!`
+              });
+        }
+    }
     setActiveChallenge(challenge);
 }
 
