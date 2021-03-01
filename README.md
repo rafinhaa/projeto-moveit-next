@@ -34,6 +34,11 @@ git clone https://github.com/rafinhaa/projeto-moveit-next.git
 cd projeto-moveit-next
 ```
 
+####Install dependencies
+```bash
+yarn install
+```
+
 #### Run the application
 ```bash
 yarn dev
