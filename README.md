@@ -13,11 +13,13 @@
   </p>
 </h4>
 
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://i.imgur.com/1o7urkT.png">
-  </a>
-</p>
+<h1 align="center">
+  <img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="docs/images/login-page.png" />
+  <div style="display: flex; flex-direction: row;">
+    <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="docs/images/user-page.png" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="docs/images/level-up-modal.png" />
+  <div>
+</h1>
 
 ## 🔖 About
 O Move.it é uma aplicação gamificada de gerenciamento que utiliza um cronômetro e a conquista de xp para incentivar a divisão de um trabalho em períodos, com pausas, conforme a técnica de pomodoro.
